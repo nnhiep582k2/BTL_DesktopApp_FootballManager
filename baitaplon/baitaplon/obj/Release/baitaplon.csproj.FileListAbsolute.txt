@@ -1,0 +1,197 @@
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\myClass\BTL\baitaplon\baitaplon\baitaplon\bin\Release\baitaplon.exe.config
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\myClass\BTL\baitaplon\baitaplon\baitaplon\bin\Release\baitaplon.exe
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\myClass\BTL\baitaplon\baitaplon\baitaplon\bin\Release\baitaplon.pdb
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\myClass\BTL\baitaplon\baitaplon\baitaplon\obj\Release\baitaplon.csproj.AssemblyReference.cache
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\myClass\BTL\baitaplon\baitaplon\baitaplon\obj\Release\baitaplon.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\myClass\BTL\baitaplon\baitaplon\baitaplon\obj\Release\baitaplon.Club.resources
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\myClass\BTL\baitaplon\baitaplon\baitaplon\obj\Release\baitaplon.Layout.resources
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\myClass\BTL\baitaplon\baitaplon\baitaplon\obj\Release\baitaplon.Login.resources
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\myClass\BTL\baitaplon\baitaplon\baitaplon\obj\Release\baitaplon.Match.resources
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\myClass\BTL\baitaplon\baitaplon\baitaplon\obj\Release\baitaplon.Player.resources
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\myClass\BTL\baitaplon\baitaplon\baitaplon\obj\Release\baitaplon.Properties.Resources.resources
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\myClass\BTL\baitaplon\baitaplon\baitaplon\obj\Release\baitaplon.csproj.GenerateResource.cache
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\myClass\BTL\baitaplon\baitaplon\baitaplon\obj\Release\baitaplon.csproj.CoreCompileInputs.cache
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\myClass\BTL\baitaplon\baitaplon\baitaplon\obj\Release\baitaplon.exe
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\myClass\BTL\baitaplon\baitaplon\baitaplon\obj\Release\baitaplon.pdb
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\myClass\BTL\baitaplon\baitaplon\baitaplon\bin\Release\Model\Database1.mdf
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\myClass\BTL\baitaplon\baitaplon\baitaplon\bin\Release\Model\Database1_log.ldf
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\myClass\BTL\baitaplon\baitaplon\baitaplon\bin\Release\Microsoft.ReportViewer.Common.dll
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\myClass\BTL\baitaplon\baitaplon\baitaplon\bin\Release\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\myClass\BTL\baitaplon\baitaplon\baitaplon\bin\Release\Microsoft.ReportViewer.Design.dll
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\myClass\BTL\baitaplon\baitaplon\baitaplon\bin\Release\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\myClass\BTL\baitaplon\baitaplon\baitaplon\bin\Release\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\myClass\BTL\baitaplon\baitaplon\baitaplon\bin\Release\Microsoft.SqlServer.Types.dll
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\myClass\BTL\baitaplon\baitaplon\baitaplon\bin\Release\EnvDTE.dll
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\myClass\BTL\baitaplon\baitaplon\baitaplon\bin\Release\stdole.dll
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\myClass\BTL\baitaplon\baitaplon\baitaplon\bin\Release\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\myClass\BTL\baitaplon\baitaplon\baitaplon\bin\Release\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\myClass\BTL\baitaplon\baitaplon\baitaplon\bin\Release\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\myClass\BTL\baitaplon\baitaplon\baitaplon\bin\Release\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\myClass\BTL\baitaplon\baitaplon\baitaplon\bin\Release\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\myClass\BTL\baitaplon\baitaplon\baitaplon\bin\Release\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\myClass\BTL\baitaplon\baitaplon\baitaplon\bin\Release\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\myClass\BTL\baitaplon\baitaplon\baitaplon\bin\Release\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\myClass\BTL\baitaplon\baitaplon\baitaplon\bin\Release\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\myClass\BTL\baitaplon\baitaplon\baitaplon\bin\Release\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\myClass\BTL\baitaplon\baitaplon\baitaplon\bin\Release\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\myClass\BTL\baitaplon\baitaplon\baitaplon\bin\Release\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\myClass\BTL\baitaplon\baitaplon\baitaplon\bin\Release\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\myClass\BTL\baitaplon\baitaplon\baitaplon\bin\Release\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\myClass\BTL\baitaplon\baitaplon\baitaplon\bin\Release\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\myClass\BTL\baitaplon\baitaplon\baitaplon\bin\Release\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\myClass\BTL\baitaplon\baitaplon\baitaplon\bin\Release\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\myClass\BTL\baitaplon\baitaplon\baitaplon\bin\Release\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\myClass\BTL\baitaplon\baitaplon\baitaplon\bin\Release\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\myClass\BTL\baitaplon\baitaplon\baitaplon\bin\Release\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\myClass\BTL\baitaplon\baitaplon\baitaplon\bin\Release\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\myClass\BTL\baitaplon\baitaplon\baitaplon\bin\Release\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\myClass\BTL\baitaplon\baitaplon\baitaplon\bin\Release\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\myClass\BTL\baitaplon\baitaplon\baitaplon\bin\Release\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\myClass\BTL\baitaplon\baitaplon\baitaplon\bin\Release\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\myClass\BTL\baitaplon\baitaplon\baitaplon\bin\Release\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\myClass\BTL\baitaplon\baitaplon\baitaplon\bin\Release\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\myClass\BTL\baitaplon\baitaplon\baitaplon\bin\Release\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\myClass\BTL\baitaplon\baitaplon\baitaplon\bin\Release\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\myClass\BTL\baitaplon\baitaplon\baitaplon\bin\Release\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\myClass\BTL\baitaplon\baitaplon\baitaplon\bin\Release\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\myClass\BTL\baitaplon\baitaplon\baitaplon\bin\Release\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\myClass\BTL\baitaplon\baitaplon\baitaplon\bin\Release\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\myClass\BTL\baitaplon\baitaplon\baitaplon\bin\Release\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\myClass\BTL\baitaplon\baitaplon\baitaplon\bin\Release\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\myClass\BTL\baitaplon\baitaplon\baitaplon\bin\Release\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\myClass\BTL\baitaplon\baitaplon\baitaplon\bin\Release\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\myClass\BTL\baitaplon\baitaplon\baitaplon\bin\Release\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\myClass\BTL\baitaplon\baitaplon\baitaplon\bin\Release\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\myClass\BTL\baitaplon\baitaplon\baitaplon\bin\Release\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\myClass\BTL\baitaplon\baitaplon\baitaplon\obj\Release\baitaplon.View.Report.resources
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\myClass\BTL\baitaplon\baitaplon\baitaplon\obj\Release\baitaplon.csproj.CopyComplete
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\myClass\BTL\baitaplon\baitaplon\baitaplon\obj\Release\baitaplon.Register.resources
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\myClass\BTL\baitaplon\baitaplon\baitaplon\obj\Release\baitaplon.ForgetPassWord.resources
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\myClass\BTL\baitaplon\baitaplon\baitaplon\obj\Release\baitaplon.View.FormAddPlayer.resources
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\myClass\BTL\baitaplon\baitaplon\baitaplon\obj\Release\baitaplon.View.AddMatch.resources
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\myClass\BTL\baitaplon\baitaplon\baitaplon\obj\Release\baitaplon.View.EditMatch.resources
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\myClass\BTL\baitaplon\baitaplon\baitaplon\obj\Release\baitaplon.View.add_clup.resources
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\myClass\BTL\baitaplon\baitaplon\baitaplon\obj\Release\baitaplon.View.Result.resources
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\myClass\BTL\baitaplon\baitaplon\baitaplon\obj\Release\baitaplon.View.update_club.resources
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\myClass\BTL\baitaplon\baitaplon\baitaplon\obj\Release\baitaplon.View.More.resources
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\myClass\BTL\baitaplon\baitaplon\baitaplon\obj\Release\baitaplon.View.Nationalities.resources
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\myClass\BTL\baitaplon\baitaplon\baitaplon\obj\Release\baitaplon.View.Add_Nationalities.resources
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\myClass\BTL\baitaplon\baitaplon\baitaplon\obj\Release\baitaplon.View.Edit_Nationalities.resources
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\myClass\BTL\baitaplon\baitaplon\baitaplon\obj\Release\baitaplon.View.Locations.resources
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\myClass\BTL\baitaplon\baitaplon\baitaplon\obj\Release\baitaplon.View.Add_Location.resources
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\myClass\BTL\baitaplon\baitaplon\baitaplon\obj\Release\baitaplon.View.Edit_Location.resources
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\myClass\BTL\baitaplon\baitaplon\baitaplon\obj\Release\baitaplon.View.Provices.resources
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\myClass\BTL\baitaplon\baitaplon\baitaplon\obj\Release\baitaplon.View.Add_Provinces.resources
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\myClass\BTL\baitaplon\baitaplon\baitaplon\obj\Release\baitaplon.View.Edit_Provinces.resources
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\myClass\BTL\baitaplon\baitaplon\baitaplon\obj\Release\baitaplon.View.Stadiums.resources
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\myClass\BTL\baitaplon\baitaplon\baitaplon\obj\Release\baitaplon.View.Add_Stadium.resources
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\myClass\BTL\baitaplon\baitaplon\baitaplon\obj\Release\baitaplon.View.Edit_Stadium.resources
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\myClass\BTL\baitaplon\baitaplon\baitaplon\obj\Release\baitaplon.csproj.ResolveComReference.cache
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\myClass\BTL\baitaplon\baitaplon\baitaplon\obj\Release\baitaplon.Add_Match_Goal.resources
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\myClass\BTL\baitaplon\baitaplon\baitaplon\obj\Release\baitaplon.Match_Goal.resources
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\myClass\BTL\baitaplon\baitaplon\baitaplon\obj\Release\baitaplon.Edit_Match_Goal.resources
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\myClass\BTL\baitaplon\baitaplon\baitaplon\obj\Release\baitaplon.Match_Card.resources
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\myClass\BTL\baitaplon\baitaplon\baitaplon\obj\Release\baitaplon.Add_Match_Card.resources
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\myClass\BTL\baitaplon\baitaplon\baitaplon\obj\Release\baitaplon.Edit_Match_Card.resources
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\myClass\BTL\baitaplon\baitaplon\baitaplon\obj\Release\baitaplon.Match_Player.resources
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\myClass\BTL\baitaplon\baitaplon\baitaplon\obj\Release\baitaplon.Add_Match_Player.resources
+C:\Users\Dell Inspiron 5515\Desktop\ki5\Kì 1\Ki-I-Nam-3\C#\myClass\BTL\baitaplon\baitaplon\baitaplon\obj\Release\baitaplon.Edit_Match_Player.resources
+C:\Users\Admin\Desktop\BTL-C#\baitaplon\baitaplon\bin\Release\Model\Database1.mdf
+C:\Users\Admin\Desktop\BTL-C#\baitaplon\baitaplon\bin\Release\Model\Database1_log.ldf
+C:\Users\Admin\Desktop\BTL-C#\baitaplon\baitaplon\bin\Release\baitaplon.exe.config
+C:\Users\Admin\Desktop\BTL-C#\baitaplon\baitaplon\bin\Release\baitaplon.exe
+C:\Users\Admin\Desktop\BTL-C#\baitaplon\baitaplon\bin\Release\baitaplon.pdb
+C:\Users\Admin\Desktop\BTL-C#\baitaplon\baitaplon\bin\Release\Microsoft.ReportViewer.Common.dll
+C:\Users\Admin\Desktop\BTL-C#\baitaplon\baitaplon\bin\Release\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Admin\Desktop\BTL-C#\baitaplon\baitaplon\bin\Release\Microsoft.ReportViewer.Design.dll
+C:\Users\Admin\Desktop\BTL-C#\baitaplon\baitaplon\bin\Release\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Admin\Desktop\BTL-C#\baitaplon\baitaplon\bin\Release\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Admin\Desktop\BTL-C#\baitaplon\baitaplon\bin\Release\Microsoft.SqlServer.Types.dll
+C:\Users\Admin\Desktop\BTL-C#\baitaplon\baitaplon\bin\Release\EnvDTE.dll
+C:\Users\Admin\Desktop\BTL-C#\baitaplon\baitaplon\bin\Release\stdole.dll
+C:\Users\Admin\Desktop\BTL-C#\baitaplon\baitaplon\bin\Release\EnvDTE.xml
+C:\Users\Admin\Desktop\BTL-C#\baitaplon\baitaplon\bin\Release\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\BTL-C#\baitaplon\baitaplon\bin\Release\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\BTL-C#\baitaplon\baitaplon\bin\Release\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\BTL-C#\baitaplon\baitaplon\bin\Release\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\BTL-C#\baitaplon\baitaplon\bin\Release\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\BTL-C#\baitaplon\baitaplon\bin\Release\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\BTL-C#\baitaplon\baitaplon\bin\Release\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\BTL-C#\baitaplon\baitaplon\bin\Release\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\BTL-C#\baitaplon\baitaplon\bin\Release\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\BTL-C#\baitaplon\baitaplon\bin\Release\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\BTL-C#\baitaplon\baitaplon\bin\Release\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\BTL-C#\baitaplon\baitaplon\bin\Release\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\BTL-C#\baitaplon\baitaplon\bin\Release\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\BTL-C#\baitaplon\baitaplon\bin\Release\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\BTL-C#\baitaplon\baitaplon\bin\Release\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\BTL-C#\baitaplon\baitaplon\bin\Release\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\BTL-C#\baitaplon\baitaplon\bin\Release\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\BTL-C#\baitaplon\baitaplon\bin\Release\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\BTL-C#\baitaplon\baitaplon\bin\Release\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\BTL-C#\baitaplon\baitaplon\bin\Release\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\BTL-C#\baitaplon\baitaplon\bin\Release\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\BTL-C#\baitaplon\baitaplon\bin\Release\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\BTL-C#\baitaplon\baitaplon\bin\Release\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\BTL-C#\baitaplon\baitaplon\bin\Release\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\BTL-C#\baitaplon\baitaplon\bin\Release\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\BTL-C#\baitaplon\baitaplon\bin\Release\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\BTL-C#\baitaplon\baitaplon\bin\Release\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\BTL-C#\baitaplon\baitaplon\bin\Release\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\BTL-C#\baitaplon\baitaplon\bin\Release\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\BTL-C#\baitaplon\baitaplon\bin\Release\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\BTL-C#\baitaplon\baitaplon\bin\Release\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\BTL-C#\baitaplon\baitaplon\bin\Release\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\BTL-C#\baitaplon\baitaplon\bin\Release\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\BTL-C#\baitaplon\baitaplon\bin\Release\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\BTL-C#\baitaplon\baitaplon\bin\Release\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\BTL-C#\baitaplon\baitaplon\bin\Release\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\BTL-C#\baitaplon\baitaplon\bin\Release\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\BTL-C#\baitaplon\baitaplon\bin\Release\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\BTL-C#\baitaplon\baitaplon\bin\Release\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\BTL-C#\baitaplon\baitaplon\bin\Release\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\BTL-C#\baitaplon\baitaplon\obj\Release\baitaplon.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\BTL-C#\baitaplon\baitaplon\obj\Release\baitaplon.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\BTL-C#\baitaplon\baitaplon\obj\Release\baitaplon.csproj.ResolveComReference.cache
+C:\Users\Admin\Desktop\BTL-C#\baitaplon\baitaplon\obj\Release\baitaplon.View.AddMatch.resources
+C:\Users\Admin\Desktop\BTL-C#\baitaplon\baitaplon\obj\Release\baitaplon.View.add_clup.resources
+C:\Users\Admin\Desktop\BTL-C#\baitaplon\baitaplon\obj\Release\baitaplon.Edit_Match_Player.resources
+C:\Users\Admin\Desktop\BTL-C#\baitaplon\baitaplon\obj\Release\baitaplon.Edit_Match_Card.resources
+C:\Users\Admin\Desktop\BTL-C#\baitaplon\baitaplon\obj\Release\baitaplon.Match_Player.resources
+C:\Users\Admin\Desktop\BTL-C#\baitaplon\baitaplon\obj\Release\baitaplon.Add_Match_Player.resources
+C:\Users\Admin\Desktop\BTL-C#\baitaplon\baitaplon\obj\Release\baitaplon.Match_Card.resources
+C:\Users\Admin\Desktop\BTL-C#\baitaplon\baitaplon\obj\Release\baitaplon.Edit_Match_Goal.resources
+C:\Users\Admin\Desktop\BTL-C#\baitaplon\baitaplon\obj\Release\baitaplon.Add_Match_Goal.resources
+C:\Users\Admin\Desktop\BTL-C#\baitaplon\baitaplon\obj\Release\baitaplon.Add_Match_Card.resources
+C:\Users\Admin\Desktop\BTL-C#\baitaplon\baitaplon\obj\Release\baitaplon.Match_Goal.resources
+C:\Users\Admin\Desktop\BTL-C#\baitaplon\baitaplon\obj\Release\baitaplon.View.Edit_Stadium.resources
+C:\Users\Admin\Desktop\BTL-C#\baitaplon\baitaplon\obj\Release\baitaplon.View.Edit_Provinces.resources
+C:\Users\Admin\Desktop\BTL-C#\baitaplon\baitaplon\obj\Release\baitaplon.View.Edit_Location.resources
+C:\Users\Admin\Desktop\BTL-C#\baitaplon\baitaplon\obj\Release\baitaplon.View.Edit_Nationalities.resources
+C:\Users\Admin\Desktop\BTL-C#\baitaplon\baitaplon\obj\Release\baitaplon.Club.resources
+C:\Users\Admin\Desktop\BTL-C#\baitaplon\baitaplon\obj\Release\baitaplon.View.EditMatch.resources
+C:\Users\Admin\Desktop\BTL-C#\baitaplon\baitaplon\obj\Release\baitaplon.View.FormAddPlayer.resources
+C:\Users\Admin\Desktop\BTL-C#\baitaplon\baitaplon\obj\Release\baitaplon.View.Add_Location.resources
+C:\Users\Admin\Desktop\BTL-C#\baitaplon\baitaplon\obj\Release\baitaplon.View.More.resources
+C:\Users\Admin\Desktop\BTL-C#\baitaplon\baitaplon\obj\Release\baitaplon.View.Locations.resources
+C:\Users\Admin\Desktop\BTL-C#\baitaplon\baitaplon\obj\Release\baitaplon.View.Nationalities.resources
+C:\Users\Admin\Desktop\BTL-C#\baitaplon\baitaplon\obj\Release\baitaplon.View.Add_Nationalities.resources
+C:\Users\Admin\Desktop\BTL-C#\baitaplon\baitaplon\obj\Release\baitaplon.View.Provices.resources
+C:\Users\Admin\Desktop\BTL-C#\baitaplon\baitaplon\obj\Release\baitaplon.View.Add_Provinces.resources
+C:\Users\Admin\Desktop\BTL-C#\baitaplon\baitaplon\obj\Release\baitaplon.Register.resources
+C:\Users\Admin\Desktop\BTL-C#\baitaplon\baitaplon\obj\Release\baitaplon.View.Report.resources
+C:\Users\Admin\Desktop\BTL-C#\baitaplon\baitaplon\obj\Release\baitaplon.Layout.resources
+C:\Users\Admin\Desktop\BTL-C#\baitaplon\baitaplon\obj\Release\baitaplon.Login.resources
+C:\Users\Admin\Desktop\BTL-C#\baitaplon\baitaplon\obj\Release\baitaplon.Match.resources
+C:\Users\Admin\Desktop\BTL-C#\baitaplon\baitaplon\obj\Release\baitaplon.Player.resources
+C:\Users\Admin\Desktop\BTL-C#\baitaplon\baitaplon\obj\Release\baitaplon.Properties.Resources.resources
+C:\Users\Admin\Desktop\BTL-C#\baitaplon\baitaplon\obj\Release\baitaplon.ForgetPassWord.resources
+C:\Users\Admin\Desktop\BTL-C#\baitaplon\baitaplon\obj\Release\baitaplon.View.Result.resources
+C:\Users\Admin\Desktop\BTL-C#\baitaplon\baitaplon\obj\Release\baitaplon.View.Add_Stadium.resources
+C:\Users\Admin\Desktop\BTL-C#\baitaplon\baitaplon\obj\Release\baitaplon.View.Stadiums.resources
+C:\Users\Admin\Desktop\BTL-C#\baitaplon\baitaplon\obj\Release\baitaplon.View.update_club.resources
+C:\Users\Admin\Desktop\BTL-C#\baitaplon\baitaplon\obj\Release\baitaplon.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\BTL-C#\baitaplon\baitaplon\obj\Release\baitaplon.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\BTL-C#\baitaplon\baitaplon\obj\Release\baitaplon.csproj.CopyComplete
+C:\Users\Admin\Desktop\BTL-C#\baitaplon\baitaplon\obj\Release\baitaplon.exe
+C:\Users\Admin\Desktop\BTL-C#\baitaplon\baitaplon\obj\Release\baitaplon.pdb

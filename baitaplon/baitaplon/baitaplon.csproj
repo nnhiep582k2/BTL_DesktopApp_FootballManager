@@ -1,0 +1,621 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{5F213052-0BAA-4DD4-BE44-78C7E318B2A9}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>baitaplon</RootNamespace>
+    <AssemblyName>baitaplon</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1537.0\lib\net40\Microsoft.ReportViewer.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.DataVisualization, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1537.0\lib\net40\Microsoft.ReportViewer.DataVisualization.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Design, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1537.0\lib\net40\Microsoft.ReportViewer.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.ProcessingObjectModel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1537.0\lib\net40\Microsoft.ReportViewer.ProcessingObjectModel.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1537.0\lib\net40\Microsoft.ReportViewer.WinForms.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.SqlServer.Types, Version=14.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.SqlServer.Types.14.0.314.76\lib\net40\Microsoft.SqlServer.Types.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Controller\ProcessConnect.cs" />
+    <Compile Include="Model\DoiBongs.cs" />
+    <Compile Include="Model\Locations_SS.cs" />
+    <Compile Include="Model\Matchs.cs" />
+    <Compile Include="Model\Match_Card_SS.cs" />
+    <Compile Include="Model\Match_Goal_SS.cs" />
+    <Compile Include="Model\Match_Player_SS.cs" />
+    <Compile Include="Model\Nationalities_SS.cs" />
+    <Compile Include="Model\Players.cs" />
+    <Compile Include="Model\Province_SS.cs" />
+    <Compile Include="Model\Stadiums_SS.cs" />
+    <Compile Include="QLGiaiBongNHADataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>QLGiaiBongNHADataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="QLGiaiBongNHAMatchResult.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>QLGiaiBongNHAMatchResult.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="QLGiaiBongNHA_CT_DB.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>QLGiaiBongNHA_CT_DB.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="QLGiaiBongNHA_PlayerList.cs">
+      <DependentUpon>QLGiaiBongNHA_PlayerList.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="QLGiaiBongNHA_PlayerList.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>QLGiaiBongNHA_PlayerList.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="QLGiaiBongNHA_TopThreePlayer.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>QLGiaiBongNHA_TopThreePlayer.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="View\AddMatch.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\AddMatch.Designer.cs">
+      <DependentUpon>AddMatch.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\add_Club.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\add_Club.Designer.cs">
+      <DependentUpon>add_Club.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\Edit_Match_Player.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Edit_Match_Player.Designer.cs">
+      <DependentUpon>Edit_Match_Player.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\Edit_Match_Card.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Edit_Match_Card.Designer.cs">
+      <DependentUpon>Edit_Match_Card.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\Match_Player.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Match_Player.Designer.cs">
+      <DependentUpon>Match_Player.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\Add_Match_Player.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Add_Match_Player.Designer.cs">
+      <DependentUpon>Add_Match_Player.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\Match_Card.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Match_Card.Designer.cs">
+      <DependentUpon>Match_Card.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\Edit_Match_Goal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Edit_Match_Goal.Designer.cs">
+      <DependentUpon>Edit_Match_Goal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\Add_Match_Goal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Add_Match_Goal.Designer.cs">
+      <DependentUpon>Add_Match_Goal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\Add_Match_Card.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Add_Match_Card.Designer.cs">
+      <DependentUpon>Add_Match_Card.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\Match_Goal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Match_Goal.Designer.cs">
+      <DependentUpon>Match_Goal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\Edit_Stadium.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Edit_Stadium.Designer.cs">
+      <DependentUpon>Edit_Stadium.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\Edit_Provinces.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Edit_Provinces.Designer.cs">
+      <DependentUpon>Edit_Provinces.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\Edit_Location.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Edit_Location.Designer.cs">
+      <DependentUpon>Edit_Location.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\Edit_Nationalities.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Edit_Nationalities.Designer.cs">
+      <DependentUpon>Edit_Nationalities.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\Club.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Club.Designer.cs">
+      <DependentUpon>Club.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controller\Connection.cs" />
+    <Compile Include="Controller\ConnAdd.cs" />
+    <Compile Include="Model\DoiBong.cs" />
+    <Compile Include="View\EditMatch.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\EditMatch.Designer.cs">
+      <DependentUpon>EditMatch.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\FormAddPlayer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\FormAddPlayer.Designer.cs">
+      <DependentUpon>FormAddPlayer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\Add_Location.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Add_Location.Designer.cs">
+      <DependentUpon>Add_Location.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\More.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\More.Designer.cs">
+      <DependentUpon>More.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\Locations.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Locations.Designer.cs">
+      <DependentUpon>Locations.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\Nationalities.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Nationalities.Designer.cs">
+      <DependentUpon>Nationalities.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\Add_Nationalities.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Add_Nationalities.Designer.cs">
+      <DependentUpon>Add_Nationalities.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\Provices.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Provices.Designer.cs">
+      <DependentUpon>Provices.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\Add_Provinces.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Add_Provinces.Designer.cs">
+      <DependentUpon>Add_Provinces.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\Register.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Register.Designer.cs">
+      <DependentUpon>Register.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\Report.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Report.Designer.cs">
+      <DependentUpon>Report.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\Layout.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Layout.Designer.cs">
+      <DependentUpon>Layout.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\Match.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Match.Designer.cs">
+      <DependentUpon>Match.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controller\Modify.cs" />
+    <Compile Include="View\Player.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Player.Designer.cs">
+      <DependentUpon>Player.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="View\ForgetPassWord.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\ForgetPassWord.Designer.cs">
+      <DependentUpon>ForgetPassWord.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Model\TaiKhoan.cs" />
+    <Compile Include="View\Result.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Result.Designer.cs">
+      <DependentUpon>Result.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\Add_Stadium.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Add_Stadium.Designer.cs">
+      <DependentUpon>Add_Stadium.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\Stadiums.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Stadiums.Designer.cs">
+      <DependentUpon>Stadiums.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\update_club.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\update_club.Designer.cs">
+      <DependentUpon>update_club.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Reports\PlayerList.rdlc" />
+    <EmbeddedResource Include="Reports\MatchResult.rdlc" />
+    <EmbeddedResource Include="Reports\TopThreePlayer.rdlc" />
+    <EmbeddedResource Include="View\AddMatch.resx">
+      <DependentUpon>AddMatch.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\add_Club.resx">
+      <DependentUpon>add_Club.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Edit_Match_Player.resx">
+      <DependentUpon>Edit_Match_Player.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Edit_Match_Card.resx">
+      <DependentUpon>Edit_Match_Card.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Match_Player.resx">
+      <DependentUpon>Match_Player.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Add_Match_Player.resx">
+      <DependentUpon>Add_Match_Player.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Match_Card.resx">
+      <DependentUpon>Match_Card.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Edit_Match_Goal.resx">
+      <DependentUpon>Edit_Match_Goal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Add_Match_Goal.resx">
+      <DependentUpon>Add_Match_Goal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Add_Match_Card.resx">
+      <DependentUpon>Add_Match_Card.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Match_Goal.resx">
+      <DependentUpon>Match_Goal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Edit_Stadium.resx">
+      <DependentUpon>Edit_Stadium.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Edit_Provinces.resx">
+      <DependentUpon>Edit_Provinces.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Edit_Location.resx">
+      <DependentUpon>Edit_Location.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Edit_Nationalities.resx">
+      <DependentUpon>Edit_Nationalities.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Club.resx">
+      <DependentUpon>Club.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\EditMatch.resx">
+      <DependentUpon>EditMatch.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\FormAddPlayer.resx">
+      <DependentUpon>FormAddPlayer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Add_Location.resx">
+      <DependentUpon>Add_Location.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\More.resx">
+      <DependentUpon>More.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Locations.resx">
+      <DependentUpon>Locations.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Nationalities.resx">
+      <DependentUpon>Nationalities.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Add_Nationalities.resx">
+      <DependentUpon>Add_Nationalities.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Provices.resx">
+      <DependentUpon>Provices.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Add_Provinces.resx">
+      <DependentUpon>Add_Provinces.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Register.resx">
+      <DependentUpon>Register.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Report.resx">
+      <DependentUpon>Report.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Layout.resx">
+      <DependentUpon>Layout.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Match.resx">
+      <DependentUpon>Match.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Player.resx">
+      <DependentUpon>Player.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="View\ForgetPassWord.resx">
+      <DependentUpon>ForgetPassWord.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Result.resx">
+      <DependentUpon>Result.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Add_Stadium.resx">
+      <DependentUpon>Add_Stadium.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Stadiums.resx">
+      <DependentUpon>Stadiums.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\update_club.resx">
+      <DependentUpon>update_club.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Model\Database1.mdf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Model\Database1_log.ldf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <DependentUpon>Database1.mdf</DependentUpon>
+    </Content>
+    <Content Include="Resources\athlete %281%29.png" />
+    <Content Include="Resources\athlete.png" />
+    <Content Include="Resources\club %282%29.png" />
+    <Content Include="Resources\home.jpg" />
+    <Content Include="Resources\icons8-add-100.png" />
+    <Content Include="Resources\icons8-american-football-player-100.png" />
+    <Content Include="Resources\icons8-pencil-100.png" />
+    <Content Include="Resources\icons8-people-100.png" />
+    <Content Include="Resources\icons8-remove-100.png" />
+    <Content Include="Resources\icons8-stadium-100.png" />
+    <Content Include="Resources\image_official.png" />
+    <Content Include="Resources\list.png" />
+    <Content Include="Resources\logo.ico" />
+    <Content Include="Resources\logo_home_1.png" />
+    <Content Include="Resources\logo_home_2.png" />
+    <Content Include="Resources\menu %281%29.png" />
+    <Content Include="Resources\menu %282%29.png" />
+    <Content Include="Resources\menu.png" />
+    <Content Include="Resources\more.png" />
+    <Content Include="Resources\plus.png" />
+    <Content Include="Resources\Premier-League-Banner.jpg" />
+    <Content Include="Resources\report.png" />
+    <Content Include="Resources\results.png" />
+    <Content Include="Resources\search.png" />
+    <Content Include="Resources\shutdown.png" />
+    <Content Include="Resources\soccer-field.png" />
+    <None Include="QLGiaiBongNHADataSet1.xsc">
+      <DependentUpon>QLGiaiBongNHADataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="QLGiaiBongNHADataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>QLGiaiBongNHADataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="QLGiaiBongNHADataSet1.xss">
+      <DependentUpon>QLGiaiBongNHADataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="QLGiaiBongNHAMatchResult.xsc">
+      <DependentUpon>QLGiaiBongNHAMatchResult.xsd</DependentUpon>
+    </None>
+    <None Include="QLGiaiBongNHAMatchResult.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>QLGiaiBongNHAMatchResult.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="QLGiaiBongNHAMatchResult.xss">
+      <DependentUpon>QLGiaiBongNHAMatchResult.xsd</DependentUpon>
+    </None>
+    <None Include="QLGiaiBongNHA_CT_DB.xsc">
+      <DependentUpon>QLGiaiBongNHA_CT_DB.xsd</DependentUpon>
+    </None>
+    <None Include="QLGiaiBongNHA_CT_DB.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>QLGiaiBongNHA_CT_DB.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="QLGiaiBongNHA_CT_DB.xss">
+      <DependentUpon>QLGiaiBongNHA_CT_DB.xsd</DependentUpon>
+    </None>
+    <None Include="QLGiaiBongNHA_PlayerList.xsc">
+      <DependentUpon>QLGiaiBongNHA_PlayerList.xsd</DependentUpon>
+    </None>
+    <None Include="QLGiaiBongNHA_PlayerList.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>QLGiaiBongNHA_PlayerList.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="QLGiaiBongNHA_PlayerList.xss">
+      <DependentUpon>QLGiaiBongNHA_PlayerList.xsd</DependentUpon>
+    </None>
+    <None Include="QLGiaiBongNHA_TopThreePlayer.xsc">
+      <DependentUpon>QLGiaiBongNHA_TopThreePlayer.xsd</DependentUpon>
+    </None>
+    <None Include="QLGiaiBongNHA_TopThreePlayer.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>QLGiaiBongNHA_TopThreePlayer.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="QLGiaiBongNHA_TopThreePlayer.xss">
+      <DependentUpon>QLGiaiBongNHA_TopThreePlayer.xsd</DependentUpon>
+    </None>
+    <None Include="Resources\249436756_316138086525042_3700540285183684554_n.png" />
+    <None Include="Resources\background-bong-da-dep-nhat_0450004541.jpg" />
+    <None Include="Resources\background-bong-da-dep-nhat_045000454.jpg" />
+    <None Include="Resources\qbv.jpg" />
+    <None Include="Resources\imaguser.jpg" />
+    <None Include="Resources\bgr.jpg" />
+    <None Include="Resources\hai-bong-da-moi-nhat.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.7.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.7.2 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Connected Services\" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="Microsoft.Office.Core">
+      <Guid>{2DF8D04C-5BFA-101B-BDE5-00AA0044DE52}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>8</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="Microsoft.Office.Interop.Excel">
+      <Guid>{00020813-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>9</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="VBIDE">
+      <Guid>{0002E157-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>5</VersionMajor>
+      <VersionMinor>3</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
